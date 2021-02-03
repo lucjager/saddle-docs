@@ -107,3 +107,6 @@ Saddle's admin keys are controlled by a [3/5 Gnosis Safe multisig](https://ether
 ### How can I keep up with Saddle?
 
 [Discord](https://discord.gg/hX8RZFBW9R)! [Twitter](https://twitter.com/saddlefinance)! [Telegram](https://t.me/saddle_finance)! [Github](https://github.com/saddle-finance)! [Medium](https://medium.com/saddle)!
+
+### Additional information ###
+Defi Alliance demo days: https://www.youtube.com/watch?t=7662&v=9vLWvk_WENk
